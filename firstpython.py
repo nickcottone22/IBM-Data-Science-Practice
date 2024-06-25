@@ -1,0 +1,3 @@
+#firstpractice
+
+print("hello world")
